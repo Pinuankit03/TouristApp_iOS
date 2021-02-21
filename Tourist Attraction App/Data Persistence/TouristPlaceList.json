@@ -1,0 +1,600 @@
+[
+  {
+    "id": "1",
+    "placeName": "The Muttart Conservatory",
+    "description": "The Muttart Conservatory, Edmonton's premier horticultural attraction, is nestled in the river valley and features more than 700 species of plants in 3 climate-regulated biomes - arid, temperate and tropical - and a feature biome, located within our pyramids.",
+    "website": "https://www.edmonton.ca/attractions_events/muttart-conservatory.aspx",
+    "phoneNo": "7804425311",
+    "status": 1,
+    "address": "9626 - 96A Street, Edmonton, AB T6C 4L8",
+    "pricing": [
+      {
+        "type": "Youth (Ages 13 – 17)",
+        "price": "$10.50"
+      },
+      {
+        "type": "Adult (Ages 18 – 64)",
+        "price": "$12.50"
+      },
+      {
+        "type": "Senior (Age 65+)",
+        "price": "$10.50"
+      }
+    ],
+    "photo": [
+      "muttart1",
+      "muttart2",
+      "muttart3",
+      "muttart4"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "10 a.m. – 5 p.m."
+      },
+      {
+        "day": "Tue",
+        "time": "10 a.m. – 5 p.m."
+      },
+      {
+        "day": "Wed",
+        "time": "10 a.m. – 5 p.m."
+      },
+      {
+        "day": "Thu",
+        "time": "10 a.m. – 9 p.m."
+      },
+      {
+        "day": "Fri",
+        "time": "10 a.m. – 5 p.m."
+      },
+      {
+        "day": "Sat",
+        "time": "10 a.m. – 5 p.m."
+      },
+      {
+        "day": "Sun",
+        "time": "10 a.m. – 5 p.m."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "placeName": "West Edmonton Mall",
+    "description": "West Edmonton Mall is a shopping mall located in Edmonton, Alberta, Canada. It is the most visited mall in Canada.",
+    "website": "https://www.wem.ca/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "phoneNo": "7804445321",
+    "status": 0,
+    "address": "8882 170 St NW, Edmonton, AB T5T 4J2",
+    "pricing": [
+      {
+        "type": "",
+        "price": "Not Available, Please visit to a mall."
+      },
+      {
+        "type": "",
+        "price": ""
+      },
+      {
+        "type": "",
+        "price": ""
+      }
+    ],
+    "photo": [
+      "wes_mall1",
+      "wes_mall2",
+      "wes_mall3"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "11:00 a.m. to 7:00 p.m"
+      },
+      {
+        "day": "Tue",
+        "time": "11:00 a.m. to 7:00 p.m"
+      },
+      {
+        "day": "Wed",
+        "time": "11:00 a.m. to 7:00 p.m"
+      },
+      {
+        "day": "Thu",
+        "time": "11:00 a.m. to 7:00 p.m"
+      },
+      {
+        "day": "Fri",
+        "time": "10:00 a.m. to 9:00 p.m"
+      },
+      {
+        "day": "Sat",
+        "time": "10:00 a.m. to 9:00 p.m"
+      },
+      {
+        "day": "Sun",
+        "time": "11:00 a.m. to 6:00 p.m"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "placeName": "The Art Gallery of Alberta",
+    "description": "The Art Gallery of Alberta is an art museum in Edmonton, Alberta, Canada. The museum occupies a 8,000 square metres building at Churchill Square in downtown Edmonton.",
+    "website": "https://www.youraga.ca",
+    "phoneNo": "7804255379",
+    "status": 0,
+    "address": "2 Sir Winston Churchill Sq, Edmonton, AB T5J 2C1",
+    "pricing": [
+      {
+        "type": "General admission",
+        "price": " $14"
+      },
+      {
+        "type": "Alberta students 18+",
+        "price": "FREE"
+      },
+      {
+        "type": "Senior (Age 65+)",
+        "price": "$10"
+      }
+    ],
+    "photo": [
+      "art1",
+      "art2",
+      "art3",
+      "art4"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "Closed"
+      },
+      {
+        "day": "Tue",
+        "time": "Closed"
+      },
+      {
+        "day": "Wed",
+        "time": "Closed"
+      },
+      {
+        "day": "Thu",
+        "time": "11:00 AM – 7:00 PM"
+      },
+      {
+        "day": "Fri",
+        "time": "11:00 AM – 5:00 PM"
+      },
+      {
+        "day": "Sat",
+        "time": "11:00 AM – 5:00 PM"
+      },
+      {
+        "day": "Sun",
+        "time": "11:00 AM – 5:00 PM"
+      }
+    ]
+  },
+
+  {
+    "id": "4",
+    "placeName": "The Royal Alberta Museum",
+    "description": "The Royal Alberta Museum is a museum of human and natural history in Edmonton, Alberta, Canada. The museum is located in Downtown Edmonton, north of City Hall. The museum is the largest in western Canada with more than 7,600 square metres exhibition space and 38,900 square metres in total.",
+    "website": "https://royalalbertamuseum.ca",
+    "phoneNo": "",
+    "status": 0,
+    "address": "9810 103a Ave NW, Edmonton, AB T5J 0G2",
+    "pricing": [
+      {
+        "type": "Public Adult (18 to 64)",
+        "price": "$21"
+      },
+      {
+        "type": "Public Senior (65+)",
+        "price": "$14"
+      },
+      {
+        "type": "Public Youth (7 to 17)",
+        "price": "$10"
+      },
+      {
+        "type": "Public Indigenous Acc. Adult",
+        "price": "FREE"
+      },
+      {
+        "type": "Public Child (6 and under)",
+        "price": "FREE"
+      },
+      {
+        "type": "Public Indigenous Acc. Senior",
+        "price": "FREE"
+      }
+    ],
+    "photo": [
+      "museum1",
+      "museum2",
+      "museum3",
+      "museum4",
+      "museum5"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "Closed"
+      },
+      {
+        "day": "Tue",
+        "time": "Closed"
+      },
+      {
+        "day": "Wed",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Thu",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Fri",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Sat",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Sun",
+        "time": "10:00 AM – 4:00 PM"
+      }
+    ]
+  },
+
+  {
+    "id": "5",
+    "placeName": "The Edmonton Valley Zoo",
+    "description": "The Edmonton Valley Zoo is a zoo located in Edmonton, Alberta's river valley. The Edmonton Valley Zoo is owned and operated by the City of Edmonton and is open 364 days a year, closing only on Christmas.",
+    "website": "https://www.edmonton.ca/attractions_events/edmonton-valley-zoo.aspx",
+    "phoneNo": "7804425311",
+    "status": 0,
+    "address": " 13315 Buena Vista Road &, 87 Ave NW, Edmonton, AB T5J 2R7",
+    "pricing": [
+      {
+        "type": "Child(Ages 2-12)",
+        "price": "$10.50"
+      },
+      {
+        "type": "Youth (Ages 13-17)",
+        "price": "$13.50"
+      },
+      {
+        "type": "Adult (Ages 18-64)",
+        "price": "$14.95"
+      },
+      {
+        "type": "Senior (Age 65+)",
+        "price": "$13.50"
+      },
+      {
+        "type": "Member",
+        "price": "FREE"
+      }
+    ],
+    "photo": [
+      "zoo1",
+      "zoo2",
+      "zoo3",
+      "zoo4",
+      "zoo5",
+      "zoo6"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Tue",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Wed",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Thu",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Fri",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Sat",
+        "time": "10:00 AM – 4:00 PM"
+      },
+      {
+        "day": "Sun",
+        "time": "10:00 AM – 4:00 PM"
+      }
+    ]
+  },
+
+  {
+    "id": "6",
+    "placeName": "World Waterpark",
+    "description": "World Waterpar is the second largest indoor water park in North America and was be surpassed by American Dream's DreamWorks Water Park on it's opening date of October 1 2020. It has a maximum capacity of 5000 guests, an average air temperature of 31 °C and contains the world's largest indoor wave pool with a capacity of 12.5 million litres. The highest slides in the park are Twister and Cyclone, which are both 83 feet high.",
+    "website": "https://www.wem.ca/play/attractions/world-waterpark",
+    "phoneNo": "7804445300",
+    "status": 0,
+    "address": "8882 170 St NW, Edmonton, AB T5T 4J2",
+    "pricing": [
+      {
+        "type": "General",
+        "price": "$35 - $49"
+      },
+      {
+        "type": "Kids and Seniors",
+        "price": "$10 off"
+      },
+      {
+        "type": "Disability",
+        "price": "$10 off"
+      }
+    ],
+    "photo": [
+      "waterpark2",
+      "waterpark1",
+      "waterpark3"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "3 p.m. to 7 p.m"
+      },
+      {
+        "day": "Tue",
+        "time": "11:00 a.m. to 3:00 p.m"
+      },
+      {
+        "day": "Wed",
+        "time": "3:00 p.m. to 7:00 p.m"
+      },
+      {
+        "day": "Thu",
+        "time": "11:00 a.m. to 3:00 p.m"
+      },
+      {
+        "day": "Fri",
+        "time": "3:00 p.m. to 7:00 p.m"
+      },
+      {
+        "day": "Sat",
+        "time": "11:00 a.m. to 3:00 p.m"
+      },
+      {
+        "day": "Sun",
+        "time": "10:00 a.m. to 2:00 p.m"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "placeName": "Galaxyland",
+    "description": "Thrills and spills abound at the world's largest indoor amusement park. Galaxyland is full of exciting rides, like the renowned triple loop roller coaster, as well as a broad range of interesting attractions and games of chance.",
+    "website": "https://www.wem.ca/play/attractions/galaxyland",
+    "phoneNo": "7804445321",
+    "status": 0,
+    "address": "2784-8882 170 St NW, Edmonton, AB T5T 4J2",
+    "pricing": [
+      {
+        "type": "General",
+        "price": "$30"
+      },
+      {
+        "type": "Dragon's Tale Mini Golf",
+        "price": "$7"
+      },
+      {
+        "type": "Crystal Labyrinth Mirror Maze",
+        "price": "$4"
+      }
+    ],
+    "photo": [
+      "galaxyland1",
+      "galaxyland2",
+      "galaxyland3"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "11:00 a.m. to 3:00 p.m"
+      },
+      {
+        "day": "Tue",
+        "time": "3 p.m. to 7 p.m"
+      },
+      {
+        "day": "Wed",
+        "time": "11:00 a.m. to 3:00 p.m"
+      },
+      {
+        "day": "Thu",
+        "time": "3 p.m. to 7 p.m"
+      },
+      {
+        "day": "Fri",
+        "time": "4 p.m. to 8 p.m"
+      },
+      {
+        "day": "Sat",
+        "time": "4 p.m. to 8 p.m"
+      },
+      {
+        "day": "Sun",
+        "time": "3 p.m. to 7 p.m"
+      }
+    ]
+  },
+
+  {
+    "id": "8",
+    "placeName": "Snow Valley Ski Club",
+    "description": "Snow Valley Ski Club is a ski area located inside Edmonton, Alberta just off the Whitemud Freeway in 119 Street in Rainbow Valley. The resort functions as a not-for-profit organization. The slope caters primary to beginner skiers and snowboarders, with only 15% of the area designated as advanced.",
+    "website": "https://www.snowvalley.ca",
+    "phoneNo": "7804343991",
+    "status": 0,
+    "address": "13204 Rainbow Valley Rd NW, Edmonton, AB T6H 4Y9",
+    "pricing": [
+      {
+        "type": "4 hrs or less",
+        "price": "$35.00"
+      },
+      {
+        "type": "Food Bank Fridays (5pm - 9pm)",
+        "price": "$17"
+      }
+    ],
+    "photo": [
+      "snow1",
+      "snow2",
+      "snow3",
+      "snow4"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "10:00 a.m. to 4:00 p.m"
+      },
+      {
+        "day": "Tue",
+        "time": "10:00 a.m. to 4:00 p.m"
+      },
+      {
+        "day": "Wed",
+        "time": "10:00 a.m. to 4:00 p.m"
+      },
+      {
+        "day": "Thu",
+        "time": "10:00 a.m. to 4:00 p.m"
+      },
+      {
+        "day": "Fri",
+        "time": "10:00 a.m. to 4:00 p.m"
+      },
+      {
+        "day": "Sat",
+        "time": "Closed"
+      },
+      {
+        "day": "Sun",
+        "time": "Closed"
+      }
+    ]
+  },
+
+  {
+    "id": "9",
+    "placeName": "Elaborate ice",
+    "description": "Elaborate ice castle with slides, caves & LED-lit sculptures, plus live fire shows after dark.",
+    "website": "https://icecastles.com/alberta",
+    "phoneNo": "",
+    "status": 0,
+    "address": "9330 Groat Rd NW, Edmonton, AB T6G 2B3",
+    "pricing": [
+      {
+        "type": "General Admission(ages 12 and up)",
+        "price": "$13.99"
+      },
+      {
+        "type": "Child Admission (ages 4 - 11)",
+        "price": "$10.99"
+      }
+    ],
+    "photo": [
+      "ice1",
+      "ice2",
+      "ice3",
+      "ice4"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "4:00 p.m. to 9:00 p.m"
+      },
+      {
+        "day": "Tue",
+        "time": "Closed"
+      },
+      {
+        "day": "Wed",
+        "time": "4:00 p.m. to 9:00 p.m"
+      },
+      {
+        "day": "Thu",
+        "time": "4:00 p.m. to 9:00 p.m"
+      },
+      {
+        "day": "Fri",
+        "time": "4:00 p.m. to 10:00 p.m"
+      },
+      {
+        "day": "Sat",
+        "time": "11:00 a.m. to 10:00 p.m"
+      },
+      {
+        "day": "Sun",
+        "time": "12:00 p.m. to 8:00 p.m"
+      }
+    ]
+  },
+
+  {
+    "id": "10",
+    "placeName": "Ice District",
+    "description": "Ice District is a $2.5 billion mixed-use sports and entertainment district being developed on 10 hectares of land in Downtown Edmonton and a portion of the neighbourhood of Central McDougall. Its main attraction is Rogers Place, the home arena of the Edmonton Oilers professional ice hockey team.",
+    "website": "http://icedistrict.com",
+    "phoneNo": "7804145483",
+    "status": 0,
+    "address": "10360 102 St NW, Edmonton, AB T5J 1B9",
+    "pricing": [
+      {
+        "type": "Not Available",
+        "price": ""
+      }
+    ],
+    "photo": [
+      "dis1",
+      "dis2"
+    ],
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "11:00 a.m. to 12:00 a.m"
+      },
+      {
+        "day": "Tue",
+        "time": "11:00 a.m. to 12:00 a.m"
+      },
+      {
+        "day": "Wed",
+        "time": "11:00 a.m. to 12:00 a.m"
+      },
+      {
+        "day": "Thu",
+        "time": "11:00 a.m. to 12:00 a.m"
+      },
+      {
+        "day": "Fri",
+        "time": "11:00 a.m. to 1:00 a.m"
+      },
+      {
+        "day": "Sat",
+        "time": "11:00 a.m. to 1:00 a.m"
+      },
+      {
+        "day": "Sun",
+        "time": "11:00 a.m. to 11:00 p.m"
+      }
+    ]
+  }
+]

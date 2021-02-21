@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "username": "thanos@gmail.com",
+        "password": "1234"
+    },
+    {
+        "id": "2",
+        "username": "wonderwoman@yahoo.com",
+        "password": "abc00021"
+    },
+    {
+        "id": "3",
+        "username": "jonsnow@winteriscoming.com",
+        "password": "gameofthrones2"
+    },
+    {
+        "id": "4",
+        "username": "superman@kypton.com",
+        "password": "kk11iii"
+    }
+]
