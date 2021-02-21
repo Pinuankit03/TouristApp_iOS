@@ -29,5 +29,5 @@ General UI Features
 o navigation drawer must contain the following:
 	Logout  - Clicking this link should logout the user and redirect them back to the Login screen. 
 	Tourist Attraction List - This should navigate the user to the Tourist Navigation List
-	Map -  For this screen, load a web view that displays a  bing.com map that is centered of your choice. To do this you can visit https://www.bing.com/maps
+	Map -  For this screen, load a web view that displays a  bing.com map that is centered of your choice.
 
