@@ -2,6 +2,8 @@
 
 The app has the following features:
 
+Visit an app Preview - https://user-images.githubusercontent.com/70823359/111873665-c8e4b280-8967-11eb-8719-b41b4287ff68.mov
+
 User account login 
 • allow users to login by entering the below credentials :
 Username and Password
